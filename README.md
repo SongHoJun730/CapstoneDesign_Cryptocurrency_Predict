@@ -1,2 +1,2 @@
-# CapstoneDesign_Cryptocurrency_Predict
+# CapstoneDesign Cryptocurrency Predict
 GNtech Univ. Students for Graduation Project
